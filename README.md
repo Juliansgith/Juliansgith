@@ -28,15 +28,14 @@ If you want to see the production-scale work I can't show here, [reach out](mail
 
 ```
 TypeScript / Python  ·  Next.js  ·  FastAPI  ·  LangGraph  ·  Postgres  ·  Prisma
-Qdrant / Neo4j  ·  Redis  ·  Docker  ·  Hetzner / AWS  ·  OpenRouter  ·  Zod
-Claude Code  ·  Cursor  ·  MCP (Playwright, Gemini)
+Qdrant / Neo4j  ·  Redis  ·  Docker  ·  Self-hosted / AWS  ·  OpenRouter  ·  Zod
 ```
 
 ### A bit more about me
 
 I'm 24, based near The Hague, finishing my BSc at Utrecht University of Applied Sciences.
 
-I think eval-driven development is underrated, that AI tooling rewards engineers who treat it as a first-class part of the stack rather than autocomplete, and that most "AI-driven" products are actually rule-based products with an LLM bolted on for content generation — and that's often the right call.
+I think eval-driven & Test driven development is underrated, that AI tooling rewards engineers who treat it as a first-class part of the stack rather than autocomplete, and that most "AI-driven" products are actually rule-based products with an LLM bolted on for content generation — and that's often the right call.
 
 ### Get in touch
 
